@@ -13,3 +13,5 @@ If you would like to submit feedback about the Stacks Grants application platfor
 ## Legacy Resource: Beta Program
 
 This repository contains issues related to the initial Stacks Grants Beta Program. These are for reference only, and all grants moving forward should be [using our application platform](https://grants.stacks.org).
+
+Nice , NOt Bad at all 
